@@ -1,0 +1,20 @@
+# ignore .py files
+
+concave_hull.py
+draw_for_presentation.py
+gibbs_rbm.py
+pics_for_manuscript.py
+simulation_test.py
+test.py
+
+# ignore .txt files
+issues.txt
+
+# ignore logs
+logs/
+
+# ignore pycache
+__*__
+
+# ignore .R files
+R/test.R
