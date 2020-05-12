@@ -20,6 +20,8 @@ The models used were a Gibbs sampling set up to predict the spatial
 information and then a penalized logistic regression to predict
 success. 
 
+The corresponding paper can be read here: https://arxiv.org/abs/2003.05428
+
 An example of my route classification for a random game:
 
 ![route classification](https://github.com/kinne174/BigDataBowl_2018/blob/master/pictures/all_routes.PNG)
